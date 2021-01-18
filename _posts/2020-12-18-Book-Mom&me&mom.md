@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Angelou's Mom&Me&Mom
+title: Book - Mom&Me&Mom
 ---
 I read this book in February 2017, and since then, it has been my favorite. I have reread it multiple times now, and I remember the emotional rollercoaster I had experienced with this book. It was hard to keep this book down. This book really made me steal time to get on reading!
 
