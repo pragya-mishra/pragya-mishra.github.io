@@ -22,14 +22,14 @@ Few of my favourite lines from this read.
 
 <ul>
 <li> “Independence is a heady draft, and if you drink it in your youth, it can have the same effect on the brain as young wine does. It does not matter that its taste is not always appealing. It is addictive and with each drink you want more.” </li>
-
+<br>
 <li> “Love heals. Heals and liberates. I use the word love, not meaning sentimentality, but a condition so strong that it may be that which holds the stars in their heavenly positions and that which causes the blood to flow orderly in our veins.”</li>
-
+<br>
 <li> “Don't do anything that you think is wrong. Just do what you think is right, and then be ready to back it up even with your life.”</li>
-
+<br>
 <li> “I really saw clearly, and for the first time, why a mother is really important. Not just because she feeds and also loves and cuddles and even mollycoddles a child, but because in an interesting and maybe an eerie and unworldly way, she stands in the gap. She stands between the unknown and the known.”</li>
-
+<br>
 <li> “Go," she whispered. "Go. Show them you spell your name W-O-M-A-N.”</li>
-
+<br>
 <li> “You see, baby, you have to protect yourself. If you don’t protect yourself, you look like a fool asking somebody else to protect you.” I thought about that for a second. She was right. A woman needs to support herself before she asks anyone else to support her.”</li>
 </ul>

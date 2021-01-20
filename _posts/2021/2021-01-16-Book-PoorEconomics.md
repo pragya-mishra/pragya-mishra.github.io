@@ -10,13 +10,13 @@ This book emerges from the understanding of the economic lives of the poorest. T
 Five key lessons listed in the book:
 <ol>
 <li>The poor often lack critical pieces of information and believe things that are not true. They are unsure about the benefits of immunizing children; they think there is little value in what is learned during the first few years of education; they don’t know how much fertilizer they need to use; they don’t know which is the easiest way to get infected with HIV; they don’t know what their politicians do when in office.</li>
-
+<br>
 <li>The poor bear responsibility for too many aspects of their lives. The richer you are, the more the “right” decisions are made for you. For instance, the poor have no piped water, and therefore do not benefit from the chlorine that the city government puts into the water supply. If they want clean drinking water, they have to purify it themselves. Such decisions are difficult for anyone as they require some thinking or some other small cost today, and the benefits are usually reaped in the distant future.</li>
-
+<br>
 <li>There are good reasons that some markets are missing for the poor, or that the poor face unfavorable prices in them. The poor get a negative interest rate from their savings accounts (if they are lucky enough to have an account) and pay exorbitant rates on their loans (if they can get one) because handling even a small quantity of money entails a fixed cost. The market for health insurance for the poor has not developed, despite the devastating effects of serious health problems in their lives, because the limited insurance options that can be sustained in the market (catastrophic health insurance, formulaic weather insurance) are not what the poor want.</li>
-
+<br>
 <li>Poor countries are not doomed to failure because they are poor, or because they have had an unfortunate history. It is true that things often do not work in these countries: Programs intended to help the poor end up in the wrong hands, teachers teach desultorily or not at all, roads weakened by the theft of materials collapse under the weight of overburdened trucks, and so forth. But many of these failures have less to do with some grand conspiracy of the elites to maintain their hold on the economy and more to do with some avoidable flaw in the detailed design of policies, and the ubiquitous three I’s: ignorance, ideology, and inertia.</li>
-
+<br>
 <li>Expectations about what people are able or unable to do all too often end up turning into self-fulfilling prophecies. Children give up on school when their teachers (and sometimes their parents) signal to them that they are not smart enough to master the curriculum; fruit sellers don’t make the effort to repay their debt because they expect that they will fall back into debt very quickly; nurses stop coming to work because nobody expects them to be there; politicians whom no one expects to perform have no incentive to try improving people’s lives.</li>
 </ol>
 
