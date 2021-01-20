@@ -25,7 +25,6 @@ Priming shows that we do not fully control our actions, judgments, and choices. 
 <li>Reason Makes Decisions Quickly, Despite Not Enough Information
 <blockquote style="color:grey;font-size:17px;">
 Example: At the party, you meet a man named Ben and find him sociable. Later, when it comes to charity, you recommend Ben as a donor, although the only thing you know about him is his sociability.</blockquote>
-</blockquote>
 We may like one character trait, and we immediately judge the rest. Often an opinion about a person develops, even if we know almost nothing about him. The tendency of the mind to simplify everything leads to erroneous judgments. This is called “exaggerated emotional coherence,” known as the halo effect. You surrounded Ben with a halo, although you know very little about him.
 </li>
 <br>
@@ -87,7 +86,8 @@ Example. The initial $ 1,000 or $ 2,000 in both cases affect the willingness to 
 <li>
 The influence of the principle of declining sensitivity: the value that we perceive may differ from the real one.
 Example. The perceived value from $ 1,000 to $ 500 is greater than from $ 2,000 to $ 1,500, although the monetary value of both losses is equal.
-</li><br>
+</li>
+</ul>
 </li><br>
 
 <li>Images That Help Us Understand the World Create Prediction Errors. To understand the situation and draw a conclusion, the mind instinctively uses cognitive coherence. We create a mental image to explain an idea or concept. Example. To understand what to wear in the summer, we recall the image of summer weather – the sun, green foliage, the beach. We trust these images, even when statistical information is at odds with them. Example. If meteorologists predict cool weather in summer, you can still wear shorts and a T-shirt, as the mental image of summer suggests. We are overly confident in our mental images. But you can overcome this self-confidence and learn to predict.
@@ -97,14 +97,4 @@ Use the reference type prediction. Instead of basing decisions on general mental
 </li>
 </ul>
 
-In our minds, two systems work. The first act instinctively and does not require much effort; the second is leisurely and requires concentration. Our thoughts and actions depend on which of the two systems controls our brain.
-
-Laziness is inherent in our minds, so the brain uses shortcuts to save energy. This happens unconsciously, and we often make mistakes. Knowing the existence of laziness, we can draw the right conclusions.
-
-Repeat the message! Messages are more convincing if we repeat them repeatedly. Recurring events that did not have bad consequences are considered good by definition.
-Do not let the heuristic of accessibility cloud your view. We often overestimate the likelihood of various disasters due to the vivid images created by the media.
-In a good mood, creative abilities and intuitive thinking are revealed. A good mood weakens the control of System 2 over the mind. Its vigilant and analytical part transfers control to an intuitive and fast-thinking system, which reveals our creative abilities.
-Why You Should Read “Thinking Fast and Slow”
-To recognize your brain activity functions you never knew before
-To learn how to deal with tons of situations in your life
-To control the vast majority of your thoughts and use your brain’s huge potential
+In our minds, two systems work. The first act instinctively and does not require much effort; the second is leisurely and requires concentration. Our thoughts and actions depend on which of the two systems controls our brain.Laziness is inherent in our minds, so the brain uses shortcuts to save energy. This happens unconsciously, and we often make mistakes. Knowing the existence of laziness, we can draw the right conclusions. Repeat the message! Messages are more convincing if we repeat them repeatedly. Recurring events that did not have bad consequences are considered good by definition. Do not let the heuristic of accessibility cloud your view. We often overestimate the likelihood of various disasters due to the vivid images created by the media. In a good mood, creative abilities and intuitive thinking are revealed. A good mood weakens the control of System 2 over the mind. Its vigilant and analytical part transfers control to an intuitive and fast-thinking system, which reveals our creative abilities. This a must book to recognize your brain activity functions you never knew before.
