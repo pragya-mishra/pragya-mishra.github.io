@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hi there! 
 
-Thank you for stumbling across my blog. I am Pragya. While I hate writing _about_ myself, I relish writing _about_ other things. Hopefully, you would like to read it.
+Thank you for stumbling across my blog. I am Pragya. I am currently working as a Software Engineer at Booking.com, based in Amsterdam. While I hate writing _about_ myself, I enjoy writing _about_ other things, and that's what the idea is! Here I take some space and a bit of your time to share a few personal anecdotes you might relate to or find amusing. I also keep recording summaries of a few of the excellent books I read.
 
 If you would like to share your feedback with me, please use the contact form below.
 <html>
@@ -30,4 +30,6 @@ If you would like to share your feedback with me, please use the contact form be
 </body>
 </html>
 
-Have a pleasant time!
+If you find my blog interesting, don't forget to subscribe to [RSS feed](https://pragya-mishra.github.io/feed.xml)
+
+Have a pleasant time! See you soon!
