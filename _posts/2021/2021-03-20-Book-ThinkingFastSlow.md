@@ -80,7 +80,7 @@ Prospect theory explains this behavior. It identifies two reasons based on the f
 <ul>
 <li>
 Assessment of reference points.
-Example: The initial $ 1000 or $ 2000 in both cases affect the willingness to take risks. We value the initial amount both as a starting point and as the actual value.
+Example: The initial $1000 or $2000 in both cases affect the willingness to take risks. We value the initial amount both as a starting point and as the actual value.
 </li><br>
 <li>
 The influence of the principle of declining sensitivity: the value that we perceive may differ from the real one.
