@@ -5,7 +5,7 @@ permalink: /about/
 ---
 Hi there! 
 
-Thank you for stumbling across my blog. I am Pragya. I am currently working as a Software Engineer based in Amsterdam. While I hate writing _about_ myself, I enjoy writing _about_ other things, and that's what the idea is! Here I take some space and a bit of your time to share a few personal anecdotes you might relate to or find amusing. I also keep recording summaries of a few of the excellent books I read.
+Thank you for stumbling across my blog! I am Pragya. I am currently working as a Software Engineer based in Amsterdam. While I hate writing _about_ myself, I enjoy writing _about_ other things, which is  what the intention is. Here I take a little space and a bit of your time to share a few personal anecdotes you might relate to or find amusing. I also keep recording summaries or takeaways from a few of the excellent books I read.
 
 If you would like to share your feedback with me, please use the contact form below.
 <html>
@@ -30,6 +30,5 @@ If you would like to share your feedback with me, please use the contact form be
 </body>
 </html>
 
-If you find my blog interesting, don't forget to subscribe to [RSS feed](https://pragya-mishra.github.io/feed.xml)
 
-Have a pleasant time! See you soon!
+Have a pleasant time!
