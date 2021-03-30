@@ -2,7 +2,7 @@
 layout: page
 title: About
 excerpt: Collection of anecdotes, essays, and book summaries
-description: Collection of anecdotes, essays, and book summaries
+description: Personal blog
 permalink: /about/
 ---
 Hi there! 
@@ -36,6 +36,4 @@ Have a pleasant time!
 
 
 
-
-
-```Disclaimer: The opinions expressed on this site are mine alone.```
+```Disclaimer: The opinions expressed on this site are solely mine.```
