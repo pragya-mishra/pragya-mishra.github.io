@@ -2,6 +2,7 @@
 layout: page
 title: About
 excerpt: Collection of anecdotes, essays, and book summaries
+description: Collection of anecdotes, essays, and book summaries
 permalink: /about/
 ---
 Hi there! 

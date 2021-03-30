@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Banerjee-Duflo's Poor Economics
-excerpt: Book summary for Abhijit V. Banerjee and Esther Duflo Poor Economics
+description: Book summary for Abhijit V. Banerjee and Esther Duflo Poor Economics
 ---
 
 Why would a man in Morocco who doesn't have enough to eat buy a television? Why do the poorest in India spend 7 percent of their food budget on sugar? Poor Economics, written by the winners of the 2019 Nobel Prize in Economic Sciences Abhijit V. Banerjee and Esther Duflo, is an eye-opening book that overturns the myths about what it is like to live on a very little, revealing the unexpected decisions that millions of people make every day.
