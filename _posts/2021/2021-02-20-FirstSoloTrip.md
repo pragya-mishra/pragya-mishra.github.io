@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Solo Trip
-description: Solo travelling experience
+excerpt: Solo travelling experience
 ---
 
 I have wanted to talk about this since ever; my trip to Amritsar on 14th Jan 2017. Before I start with how did it happen, let me begin with why did it happen.

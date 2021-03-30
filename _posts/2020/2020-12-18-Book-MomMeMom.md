@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angelou's Mom and Me and Mom
-description: Book summary for Maya Angelou's Mom and Me and Mom
+excerpt: Book summary for Maya Angelou's Mom and Me and Mom
 ---
 I read this book in February 2017, and since then, it has been my favorite. I have reread it multiple times now, and I remember the emotional rollercoaster I had experienced with this book. It was hard to keep this book down. This book really made me steal time to get on reading!
 
