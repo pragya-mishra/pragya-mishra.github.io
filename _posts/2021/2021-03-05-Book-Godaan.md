@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Premchand's Godaan (गोदान)
+description: Book summary for Munshi Premchand's Godaan
 ---
 
 Godaan is a Hindi novel written by Munshi Premchand, themed around the socio-economic deprivation and the exploitation of the village poor. This was first published in 1936 and is recognized as one of the greatest Hindi novels of modern Indian literature. The name of the book, Godaan, means donating a cow to a charity. It is regarded as a crucial Hindu ritual, as it helps in absolving one's sin and achieving salvation.

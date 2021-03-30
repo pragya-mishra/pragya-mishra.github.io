@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kahneman's Thinking, fast and slow
+description: Book summary for Kahneman's Thinking, fast and slow
 ---
 
 How does our brain work? How do we think what we think? Is everything that we think right? Why do we commit mistakes? What are memories? Why is it so hard to learn something new? Thinking, fast and slow, is the book that gives answers to all these questions. I started reading this book in September 2018, and it took me somewhere around three months to complete this book. Since then, I wanted to write a summary for this one, but there are so many theories and small exercises; a summary wouldn't do justice to what this book holds. 
