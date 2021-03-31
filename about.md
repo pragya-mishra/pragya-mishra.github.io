@@ -33,7 +33,3 @@ If you would like to share your feedback with me, please use the contact form be
 </html>
 
 Have a pleasant time!
-
-
-
-```Disclaimer: The opinions expressed on this site are solely mine.```
