@@ -40,7 +40,7 @@ disqus:
 google_analytics: UA-193328550-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
+# Used for Sitemap.xml and RSS feed
 url: https://pragya-mishra.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
