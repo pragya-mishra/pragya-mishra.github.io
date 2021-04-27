@@ -7,9 +7,9 @@ permalink: /about/
 ---
 Hi there! 
 
-Thank you for stumbling across my blog! I am Pragya. I am currently working as a Software Engineer based in Amsterdam. While I hate writing _about_ myself, I enjoy writing _about_ other things, which is  what the intention is. Here I take a little space and a bit of your time to share a few personal anecdotes you might relate to or find amusing. I also keep recording summaries or takeaways from a few of the excellent books I read.
+I am Pragya. While I hate writing _about_ myself, I enjoy writing _about_ other things, which is  what the intention is. Here I take a little space and a bit of your time to share a few personal anecdotes you might relate to or find amusing. I also keep recording summaries or takeaways from a few of the excellent books I read.
 
-If you would like to share your feedback with me, please use the contact form below.
+If you would like to share your feedback with me, please do not hesitate.
 <html>
 <head>
 <style>
@@ -28,7 +28,7 @@ If you would like to share your feedback with me, please use the contact form be
 </style>
 </head>
 <body>
-<a href="https://forms.gle/cMTmS2qrichCuzw16" class="button">Contact me</a>
+<a href="https://forms.gle/cMTmS2qrichCuzw16" class="button">Share your feedback</a>
 </body>
 </html>
 
