@@ -5,11 +5,15 @@ excerpt: Collection of anecdotes, essays, and book summaries
 description: Personal blog
 permalink: /about/
 ---
-Hi there! 
 
-I am Pragya. While I hate writing _about_ myself, I enjoy writing _about_ other things, which is  what the intention is. Here I take a little space and a bit of your time to share a few personal anecdotes you might relate to or find amusing. I also keep recording summaries or takeaways from a few of the excellent books I read.
+I am Pragya. Thank you for stumbling across my blog!
+
+It is taking me quite some time to come up with the content for this section, and I am still figuring it out; it's a good exercise so far. This blog is nothing special, just a space created by a software engineer who has an avid interest in writing.
+
+Here I take a little space and a bit of your time to share a few personal anecdotes you might relate to or find amusing. I also keep recording summaries or takeaways from a few of the excellent books or blogs I read.
 
 If you would like to share your feedback with me, please do not hesitate.
+
 <html>
 <head>
 <style>
