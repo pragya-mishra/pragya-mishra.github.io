@@ -17,7 +17,7 @@ If you would like to share your feedback with me, please do not hesitate.
 <head>
 <style>
 .button {
-  background-color: #3399ff;
+  background-color: #4183C4;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -25,6 +25,7 @@ If you would like to share your feedback with me, please do not hesitate.
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 4px 2px;
   cursor: pointer;
 }
